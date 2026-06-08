@@ -1,19 +1,19 @@
 # Projects
 
-The things I build, and the thinking behind them — open source, spanning AI
+The things I build, and the thinking behind them, open source, spanning AI
 orchestration, production-grade C++, and the engineering-leadership tools in
 between.
 
 <!--
 To add a project: copy a card block inside the relevant section and edit the four
-parts — icon, title, description, link. Cards use the Material "grid cards"
+parts, icon, title, description, link. Cards use the Material "grid cards"
 extension (attr_list + md_in_html); keep one blank line between cards.
 -->
 
 ## AI orchestration & developer tooling
 
 Where most of my current energy goes: tools that help agents and engineers do
-trustworthy work — plan it, verify it against evidence, and ship it without the
+trustworthy work, plan it, verify it against evidence, and ship it without the
 guesswork.
 
 <div class="grid cards" markdown>
@@ -22,7 +22,7 @@ guesswork.
 
     ---
 
-    Know exactly what open source you ship — and what it obligates you to. A
+    Know exactly what open source you ship, and what it obligates you to. A
     license-disclosure orchestrator that verifies licenses against authoritative
     sources and turns the ambiguity scanners leave behind into one evidence-backed
     disclosure.
@@ -33,7 +33,7 @@ guesswork.
 
     ---
 
-    AI teamwork / multi-agent orchestration — plan, review, build, and fix features
+    AI teamwork / multi-agent orchestration, plan, review, build, and fix features
     through coordinated agent handoffs with layered, independent verification.
 
     [:octicons-arrow-right-24: github.com/KjellKod/quest](https://github.com/KjellKod/quest)
@@ -43,7 +43,7 @@ guesswork.
     ---
 
     Drop in a PDF, Word doc, spreadsheet, or slide deck and get clean Markdown
-    back — converted entirely in your browser, so the files never leave your
+    back, converted entirely in your browser, so the files never leave your
     machine. It turns the documents you already have into context a coding agent
     can actually read.
 
@@ -55,7 +55,7 @@ guesswork.
     ---
 
     An ASCII wireframe editor for agent-first development. Draw a UI, copy it as
-    a Markdown code block, paste it into Claude Code, Codex, or Cursor — the agent
+    a Markdown code block, paste it into Claude Code, Codex, or Cursor, the agent
     gets layout, hierarchy, and structure with no guessing. The sketch sibling of
     doc2md.
 
@@ -66,7 +66,7 @@ guesswork.
 ## Battle-tested modern C++
 
 Production-grade C++ libraries that have run in defense, financial,
-medical-technology, and university systems — domains where "mostly works" was
+medical-technology, and university systems, domains where "mostly works" was
 never an option.
 
 <div class="grid cards" markdown>
@@ -75,7 +75,7 @@ never an option.
 
     ---
 
-    Asynchronous, crash-safe C++ logger — 900+ stars and a decade of production
+    Asynchronous, crash-safe C++ logger, 900+ stars and a decade of production
     use. Keeps logging right up to the moment of a crash, then flushes safely.
 
     [:octicons-arrow-right-24: github.com/KjellKod/g3log](https://github.com/KjellKod/g3log)
@@ -84,7 +84,7 @@ never an option.
 
     ---
 
-    Sink integrations for g3log — rotating files, log levels, and more.
+    Sink integrations for g3log, rotating files, log levels, and more.
 
     [:octicons-arrow-right-24: github.com/KjellKod/g3sinks](https://github.com/KjellKod/g3sinks)
 
@@ -92,7 +92,7 @@ never an option.
 
     ---
 
-    Async FIFO wrapper that turns any C++ object into a background worker — simple,
+    Async FIFO wrapper that turns any C++ object into a background worker, simple,
     safe concurrency without the lock-juggling.
 
     [:octicons-arrow-right-24: github.com/KjellKod/concurrent](https://github.com/KjellKod/concurrent)
@@ -101,7 +101,7 @@ never an option.
 
     ---
 
-    A lock-free / wait-free circular FIFO — the classic single-producer,
+    A lock-free / wait-free circular FIFO, the classic single-producer,
     single-consumer concurrent data structure, done right.
 
     [:octicons-arrow-right-24: github.com/KjellKod/lock-free-wait-free-circularfifo](https://github.com/KjellKod/lock-free-wait-free-circularfifo)
@@ -112,8 +112,8 @@ never an option.
 
 For CTOs, VPs of Engineering, and managers: before you sign a five-figure
 contract with Jellyfish, LinearB, or Swarmia, start here. Open-source metrics
-analysis that turns your team's own Jira and GitHub data into actionable insight
-— so you understand more and coach better. Built to start conversations, not to
+analysis that turns your team's own Jira and GitHub data into actionable insight,
+so you understand more and coach better. Built to start conversations, not to
 stack-rank people.
 
 <div class="grid cards" markdown>
@@ -123,7 +123,7 @@ stack-rank people.
     ---
 
     Cycle time, release frequency, review latency, and the product-vs-platform
-    balance — pulled straight from Jira and GitHub, exportable to CSV, and designed
+    balance, pulled straight from Jira and GitHub, exportable to CSV, and designed
     to spark better conversations with your team. Own your data; skip the expensive
     dashboard.
 

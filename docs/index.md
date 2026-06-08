@@ -4,10 +4,12 @@ hide:
   - toc
 ---
 
-# Hey, I'm Kjell 👋
+# I write software that isn't allowed to fail.
 
-Engineer working on **AI orchestration** and **mission- / safety-critical systems** —
-background in C++ and Python.
+Twenty years of it: air-traffic control, radar, and neonatal ventilators. These
+days I build AI systems that verify their own work instead of trusting it, and
+off the clock I cure charcuterie, hunt, and still throw the occasional karate
+punch. It's all more connected than it looks.
 
 > You should never trust a single actor. You trust a system built on independent
 > verification, layered review, and evidence.
@@ -18,7 +20,7 @@ background in C++ and Python.
 
     ---
 
-    Short intros and links to everything I'm building — from a C++ logger used in
+    Short intros and links to everything I'm building, from a C++ logger used in
     production to AI orchestration tooling.
 
     [:octicons-arrow-right-24: Browse projects](projects.md)

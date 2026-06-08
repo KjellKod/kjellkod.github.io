@@ -3,7 +3,7 @@
 Personal site + blog, built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 Publishes to <https://kjellkod.github.io> via GitHub Actions.
 
-Separate from the profile README repo (`KjellKod/KjellKod`) — nothing here affects the
+Separate from the profile README repo (`KjellKod/KjellKod`), nothing here affects the
 `github.com/KjellKod` profile page.
 
 ## Local preview
@@ -34,4 +34,4 @@ Rest of the post...
 The blog index, month archives, category pages, and listing are generated automatically.
 
 ## Add / edit a project
-Edit `docs/projects.md` — copy a card block and change the icon, title, blurb, and URL.
+Edit `docs/projects.md`, copy a card block and change the icon, title, blurb, and URL.
