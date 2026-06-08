@@ -7,10 +7,9 @@ hide:
 # I write software that isn't allowed to fail.
 
 Twenty years of it: air-traffic control, radar, and neonatal life-support
-ventilators. These
-days I build AI systems that verify their own work instead of trusting it, and
-off the clock I cure charcuterie, hunt, and still throw the occasional karate
-punch. It's all more connected than it looks.
+ventilators. These days I build AI systems that verify their own work instead of
+trusting it, and off the clock I cure charcuterie, hunt, and still throw the
+occasional karate punch. It's all more connected than it looks.
 
 > You should never trust a single actor. You trust a system built on independent
 > verification, layered review, and evidence.
@@ -33,5 +32,14 @@ punch. It's all more connected than it looks.
     Engineering notes, deep dives, and write-ups. Newest first.
 
     [:octicons-arrow-right-24: Read the blog](blog/index.md)
+
+-   :fontawesome-brands-github:{ .lg .middle } __GitHub__
+
+    ---
+
+    Every repo in one place: the battle-tested C++ libraries, the AI tooling, and
+    the experiments that haven't earned a card yet.
+
+    [:octicons-arrow-right-24: github.com/kjellkod](https://github.com/kjellkod)
 
 </div>
