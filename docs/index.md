@@ -6,7 +6,8 @@ hide:
 
 # I write software that isn't allowed to fail.
 
-Twenty years of it: air-traffic control, radar, and neonatal ventilators. These
+Twenty years of it: air-traffic control, radar, and neonatal life-support
+ventilators. These
 days I build AI systems that verify their own work instead of trusting it, and
 off the clock I cure charcuterie, hunt, and still throw the occasional karate
 punch. It's all more connected than it looks.
