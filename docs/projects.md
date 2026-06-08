@@ -33,14 +33,6 @@ and edit the four parts: icon, title, description, link.
 
     [:octicons-arrow-right-24: github.com/KjellKod/doc2md](https://github.com/KjellKod/doc2md)
 
--   :material-vector-difference:{ .lg .middle } __diffly__
-
-    ---
-
-    _One-line description — TODO (e.g. what diffly diffs and why)._
-
-    [:octicons-arrow-right-24: github.com/KjellKod/diffly](https://github.com/KjellKod/diffly)
-
 -   :material-draw:{ .lg .middle } __sketch2md__
 
     ---
