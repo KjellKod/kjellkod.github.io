@@ -45,7 +45,10 @@ and edit the four parts: icon, title, description, link.
 
     ---
 
-    _One-line description — TODO (e.g. turn sketches/diagrams into Markdown)._
+    An ASCII wireframe editor for agent-first development. Draw a UI, copy it as
+    a Markdown code block, paste it into Claude Code, Codex, or Cursor — the agent
+    gets layout, hierarchy, and structure with no guessing. The sketch sibling of
+    doc2md.
 
     [:octicons-arrow-right-24: github.com/KjellKod/sketch2md](https://github.com/KjellKod/sketch2md)
 
